@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Dark_slate_gray">#3B5A64</color>
+    <color name="Air_Force_blue">#6D8D97</color>
+    <color name="Columbia_blue">#C9D8DD</color>
+    <color name="Orange">#FF6000</color>
+    <color name="Orange2">#FFA559</color>
+    <color name="alu">#454545</color>
+    <color name="yellow">#f9c823</color>
+    <color name="pinkyred">#fc506e</color>
+</resources>
